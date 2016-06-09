@@ -87,7 +87,7 @@ section {
 
 .photo {
     width: 92%;
-    height: 254px;
+    height: auto;
     border-radius: 70%;
 }
 
