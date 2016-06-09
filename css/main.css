@@ -12,7 +12,7 @@
 }
 
 nav {
-    height: 60px;
+    height: 48px;
     width: 100%;
     position: relative;
     font-family: 'Rancho', cursive;
@@ -120,9 +120,6 @@ hr {
 
 /*..................................................SECTION 3................................................*/
 
-.proyects {
-	margin-bottom: 10em;
-}
 
 .section-proyects {
     background-color:;
@@ -305,4 +302,10 @@ footer {
 .porcent {
     color: #cc0058;
     margin-left: 8em;
+}
+
+.made {
+    color: #ecc6d9;
+    margin-top: 8px;
+    margin-bottom: -15px;
 }
